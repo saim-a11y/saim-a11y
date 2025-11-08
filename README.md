@@ -48,16 +48,16 @@
 
 ### 🌐 Featured Projects
 
-| 🧩 Project | Description | Live Demo |
-|-------------|--------------|-----------|
-| 🧠 *[*Brainwave]([url](https://brainwave-gold-nine.vercel.app/))** 
-| 💼 **[Xora]([url](https://xora-one-eta.vercel.app/))** 
+ 🧩 Project 
+ 🧠 *[*Brainwave]([url](https://brainwave-gold-nine.vercel.app/))** 
+ 💼 **[Xora]([url](https://xora-one-eta.vercel.app/))** 
 
 ---
 
 ### 🧾 Certifications
 <p align="center">
-  <img src="https://github.com/SaimrRazaAly/HTML-CSS-JS-Work/blob/main/3dgb%20SAIM.png" alt="Certification" width="600"/>
+ Certifications: [Frontend Development]([url](https://github.com/SaimrRazaAly/HTML-CSS-JS-Work/blob/main/3dgb%20SAIM.png))
+
 </p>
 
 ---
